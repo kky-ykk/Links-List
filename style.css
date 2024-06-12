@@ -27,6 +27,10 @@ body{
 
 }
 
+.name a{
+    color: black;
+}
+
 .list-links a{
     color: black;
     text-decoration: none;
